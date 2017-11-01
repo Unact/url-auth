@@ -7,9 +7,8 @@ require "url_auth/version"
 Gem::Specification.new do |s|
   s.name        = "url_auth"
   s.version     = UrlAuth::VERSION
-  s.authors     = ["sov-87"]
-  s.email       = ["afetisov87@gmail.com"]
-  s.homepage    = "http://github.com/sov-87/url_auth"
+  s.authors     = ["Unact"]
+  s.homepage    = "http://github.com/Unact/url_auth"
   s.summary     = "Url-based authorization system"
   s.description = "Simple authorization system based on checking url path and http method."
   s.license     = "MIT"
